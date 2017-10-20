@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="title_activity_hello_maps">Map</string>
+    <string name="title_activity_map_style">Map</string>
+    <string name="title_activity_final_map">Map</string>
+    <string name="title_activity_location_map">Map</string>
+
+</resources>
